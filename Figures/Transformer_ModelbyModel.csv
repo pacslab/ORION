@@ -1,0 +1,13 @@
+Model,Batch Size,Actual (ms),Predicted (ms),Error
+DeiT-Tiny,32,38.89,29.37,24.5%
+DeiT-Tiny,48,41.99,36.54,13.0%
+DeiT-Tiny,64,46.53,42.08,9.6%
+DistilBERT,8,28.01,21.56,23.0%
+DistilBERT,16,28.48,21.9,23.1%
+DistilBERT,32,29.19,20.74,28.9%
+Transformer,8,158.16,155.39,1.8%
+Transformer,16,157.48,151.29,3.9%
+Transformer,32,156.79,154.07,1.7%
+ViT,4,41.82,33.01,21.1%
+ViT,8,46.11,45.34,1.7%
+ViT,16,60.42,57.8,4.3%

@@ -1,0 +1,11 @@
+numpy
+pandas
+scikit-learn
+xgboost
+tqdm
+torch
+torchvision
+transformers
+datasets
+timm
+matplotlib
