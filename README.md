@@ -75,7 +75,7 @@ python RMSE_Figures.py
 python GPU_Figures.py
 ```
 ---
-ORION: Integrated Runtime Modeling for Predicting Deep Learning Training Time, submitted to ICPE 2026.
+ORION: Integrated Runtime Modeling for Predicting Deep Learning Training Time, ICPE 2026.
 
 
 
